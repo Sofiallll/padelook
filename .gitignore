@@ -1,0 +1,21 @@
+
+# pycharm
+.idea/
+.venv/
+
+# python
+__pycache__/
+*.pyc
+
+# macos
+.DS_Store
+
+# резервные копии базы
+*backup*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# временные файлы
+*.log
+
